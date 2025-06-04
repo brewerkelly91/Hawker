@@ -1,7 +1,7 @@
 '''
 
                    .--~~,__      
-      :-....,-------`~~'._.'     Twitter → @DeAn0nim0us
+      :-....,-------`~~'._.'     Twitter → @nate1997h
        `-,,,  ,_      ;'~U'      Github → RetrO-M
         _,-' ,'`-__; '--.        https://discord.gg/KRjzDPzDbx
        (_/'~~      """"(;
